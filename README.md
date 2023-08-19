@@ -8,7 +8,7 @@ I am an aspiring Software Engineer who is currently transitioning into tech from
 
 👯 Looking to collaborate on: projects that help me gain more knowledge as well as having practical/social impact
 
-💬 Ask me about: I am decent at Python and HTML 
+💬 Ask me about: Python, HTML, CSS and JavaScript! 
 
 📫 How to reach me: kianamarfo@gmail.com or check out my Instagram 
 
